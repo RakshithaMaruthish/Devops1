@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T14:57:22 IST" name="Default suite" finished-at="2024-08-16T14:57:23 IST" duration-ms="129">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T14:57:22 IST" name="Default test" finished-at="2024-08-16T14:57:23 IST" duration-ms="129">
+      <class name="Ppoomm.CurrentDate">
+        <test-method signature="d1()[pri:0, instance:Ppoomm.CurrentDate@51dcb805]" started-at="2024-08-16T14:57:22 IST" name="d1" finished-at="2024-08-16T14:57:23 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+      </class> <!-- Ppoomm.CurrentDate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
